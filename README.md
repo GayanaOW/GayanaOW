@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gayana Waraketiya</h1>
-<h3 align="center">Computer Science Graduate · Full Stack Developer · Sri Lanka 🇱🇰</h3>
+<h1 align="center">Hi, I'm Gayana Waraketiya</h1>
+<h3 align="center">Computer Science Graduate · Software Engineering Fresh Graduate · Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gayana-waraketiya" target="_blank">
+  <a href="https://www.linkedin.com/in/gayana-waraketiya-75b560257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gayana.20221089@iit.ac.lk">
