@@ -24,7 +24,7 @@
 - 🤖 Building applications with AI-assisted development tools (Cursor AI, Claude)
 - 🌱 Exploring **cloud-native development**, **Spring Boot**, and **graph databases**
 - 💬 Ask me about **Java, Python, Next.js, React**
-- 📫 Reach me at **gayana.20221089@iit.ac.lk**
+- 📫 Reach me at **gayana.waraketiya@gmail.com**
 
 ---
 
