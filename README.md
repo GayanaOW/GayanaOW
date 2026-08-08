@@ -19,7 +19,7 @@
 
 - 🎓 Final-year **Computer Science** student at IIT Sri Lanka
 - 💼 ~1 year of internship experience in software development
-- 🔭 Currently building an **open-source dinosaur survival game** with a team
+- 🔭 Currently developing an **open-source dinosaur survival game** with a team
 - 🧠 Final year project: **ML-Based Import Vegetable Price Volatility Prediction System** using XGBoost & macroeconomic factors
 - 🤖 Building applications with AI-assisted development tools (Cursor AI, Claude)
 - 🌱 Exploring **cloud-native development**, **Spring Boot**, and **graph databases**
