@@ -76,7 +76,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🦕 **Dino Survival Game** | Open-source multiplayer survival game (in progress) | Next.js, Node.js |
+| 🦕 **Dino Survival Game** | Open-source multiplayer survival game (in progress) | GDScript, Blender |
 | 📊 **Vegetable Price Predictor** | ML model predicting import vegetable price volatility using fuel & exchange rate data | Python, XGBoost |
 
 ---
