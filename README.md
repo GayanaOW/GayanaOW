@@ -87,5 +87,5 @@
 ---
 
 <p align="center">
-  <i>###Open to **Junior/Associate Software Engineering and DevOps** opportunities remote or on-site in Colombo.###</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=700&lines=Open+to+Junior+%2F+Associate+Software+Engineering+%26+DevOps+roles;Remote+or+On-site+in+Colombo+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 </p>
