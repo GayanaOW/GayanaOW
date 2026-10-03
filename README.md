@@ -21,7 +21,7 @@
 - 💼 ~1 year of internship experience in software development
 - 🔭 Currently developing an **open-source dinosaur survival game** with a team
 - 🧠 Final year project: **ML-Based Import Vegetable Price Volatility Prediction System** using XGBoost & macroeconomic factors
-- 🐧 Recently expanded into Linux: CLI, file permissions, package management, and I/O handling on Ubuntu (WSL2)
+- 🐧 Actively learning Linux: CLI, file permissions, package management, and I/O handling on Ubuntu (WSL2)
 - 🤖 Building applications with AI-assisted development tools (Cursor AI, Claude)
 - 🌱 Exploring **cloud-native development**, **Spring Boot**, and **graph databases**
 - 💬 Ask me about **Java, Python, Next.js, React**
