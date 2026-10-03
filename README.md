@@ -94,5 +94,5 @@
 ---
 
 <p align="center">
-  <i>Open to junior/associate software engineering opportunities — remote or on-site in Colombo.</i>
+  <i>Open to Junior/Associate Software Engineering and DevOpsopportunities remote or on-site in Colombo.</i>
 </p>
