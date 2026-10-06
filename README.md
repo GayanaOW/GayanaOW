@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final-year **Computer Science** student at IIT Sri Lanka with First Class Honours
-- 💼 ~1 year of internship experience in software development
+- 💼 1 year of internship experience in software development (Industrial Experience)
 - 🔭 Currently developing an **open-source dinosaur survival game** with a team
 - 🧠 Final year project: **ML-Based Import Vegetable Price Volatility Prediction System** using XGBoost & macroeconomic factors
 - 🐧 Actively learning Linux: CLI, file permissions, package management, and I/O handling on Ubuntu (WSL2)
