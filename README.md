@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Gayana Waraketiya</h1>
 <h3 align="center">Computer Science Graduate · Software Engineering Fresh Graduate · Sri Lanka 🇱🇰</h3>
+<h2 align="center">Software Engineer/DevOps Engineer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gayana-waraketiya-75b560257/" target="_blank">
